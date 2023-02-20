@@ -1,0 +1,32 @@
+D:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\bin\Debug\Analog Clock.exe.config
+D:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\bin\Debug\Analog Clock.exe
+D:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\bin\Debug\Analog Clock.pdb
+D:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\obj\Debug\Analog Clock.csproj.AssemblyReference.cache
+D:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\obj\Debug\Analog_Clock.Form1.resources
+D:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\obj\Debug\Analog_Clock.Properties.Resources.resources
+D:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\obj\Debug\Analog Clock.csproj.GenerateResource.cache
+D:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\obj\Debug\Analog Clock.csproj.CoreCompileInputs.cache
+D:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\obj\Debug\Analog Clock.exe
+D:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\obj\Debug\Analog Clock.pdb
+E:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\bin\Debug\Analog Clock.exe.config
+E:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\bin\Debug\Analog Clock.exe
+E:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\bin\Debug\Analog Clock.pdb
+E:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\obj\Debug\Analog Clock.csproj.AssemblyReference.cache
+E:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\obj\Debug\Analog Clock.csproj.SuggestedBindingRedirects.cache
+E:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\obj\Debug\Analog_Clock.Form1.resources
+E:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\obj\Debug\Analog_Clock.Properties.Resources.resources
+E:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\obj\Debug\Analog Clock.csproj.GenerateResource.cache
+E:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\obj\Debug\Analog Clock.csproj.CoreCompileInputs.cache
+E:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\obj\Debug\Analog Clock.exe
+E:\C#\CSharp\My Practice  Projects\Analog Clock\Analog Clock\obj\Debug\Analog Clock.pdb
+G:\Mahbur Projects\C#\Analog Clock\Analog Clock\bin\Debug\Analog Clock.exe.config
+G:\Mahbur Projects\C#\Analog Clock\Analog Clock\bin\Debug\Analog Clock.exe
+G:\Mahbur Projects\C#\Analog Clock\Analog Clock\bin\Debug\Analog Clock.pdb
+G:\Mahbur Projects\C#\Analog Clock\Analog Clock\obj\Debug\Analog Clock.csproj.AssemblyReference.cache
+G:\Mahbur Projects\C#\Analog Clock\Analog Clock\obj\Debug\Analog Clock.csproj.SuggestedBindingRedirects.cache
+G:\Mahbur Projects\C#\Analog Clock\Analog Clock\obj\Debug\Analog_Clock.Form1.resources
+G:\Mahbur Projects\C#\Analog Clock\Analog Clock\obj\Debug\Analog_Clock.Properties.Resources.resources
+G:\Mahbur Projects\C#\Analog Clock\Analog Clock\obj\Debug\Analog Clock.csproj.GenerateResource.cache
+G:\Mahbur Projects\C#\Analog Clock\Analog Clock\obj\Debug\Analog Clock.csproj.CoreCompileInputs.cache
+G:\Mahbur Projects\C#\Analog Clock\Analog Clock\obj\Debug\Analog Clock.exe
+G:\Mahbur Projects\C#\Analog Clock\Analog Clock\obj\Debug\Analog Clock.pdb
